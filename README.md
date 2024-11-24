@@ -1,4 +1,5 @@
 TicTacToe Game 🎮
+
 This project is a Java-based implementation of the classic TicTacToe game. It features a human player competing against a simple AI in a console-based game environment. The game alternates turns until there is a winner or a draw.
 
 Features
